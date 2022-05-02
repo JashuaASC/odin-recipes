@@ -1,0 +1,46 @@
+.recipe-title,
+.section-title {
+    color: blue;
+}
+
+div {
+    
+}
+
+.recipe-title {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+.recipe-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 25px;
+}
+
+.top-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .top-nav li {
+    float: left;
+  }
+  
+  .top-nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .top-nav li a:hover {
+    background-color: #111;
+  }
